@@ -1,0 +1,22 @@
+
+#!/usr/bin/bash
+
+
+inputFile=$1
+
+echo "processing input file :" $inputFile
+
+if [[ -f "$inputFile" ]]
+
+then 
+
+nLines=`cat $inputFile | wc -l`
+echo "--> number of lines =" $nLines
+
+
+else
+
+echo "--> file doesn't exist !"
+
+fi
+
