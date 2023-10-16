@@ -2,4 +2,5 @@ MUTAMU
 TONY DASSIN
 M1 SSD
 Grenoble,38100
-Age 12 ans 
+Age 12 ans
+Taille 1,95 m
